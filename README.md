@@ -2,7 +2,7 @@
 
 Alyssa Kongswangwongsa and Justin Wang
 
-1) **1.Within a Github action that runs whenever code is pushed** because automated tests should be automatically testing new and existing software based on certain events and are triggered by repository based actions like code getting pushed or periodically repository tests
-2) ?
+1) Within a Github action that runs whenever the code is pushed. As a CI/CD platform, it is meant to fit automated tests into the development pipeline.
+2) No, it would be done using a unit test
 3) no because unit test cannot test how components interact on a application/feature level
 4) yes because unit testing is used to debug a small part of the large application
